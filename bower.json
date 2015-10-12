@@ -1,0 +1,25 @@
+{
+    "name": "angular-languagetool",
+    "title": "Angular directive for LanguageTool+TinyMCE",
+    "version": "1.0.0",
+    "description": "LanguageTool is an Open Source proof­reading program for English, French, German, Polish, and more than 20 other languages.",
+    "license": "LGPL",
+    "main": [
+        "src/angular-languagetool.directive.js"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "components"
+    ],
+    "bugs": "https://github.com/ControlExpert/angular-languagetool/issues",
+    "homepage": "https://github.com/ControlExpert/angular-languagetool/",
+    "dependencies": {
+        "jquery": ">=1.11.2"
+    },
+    "keywords": [
+        "spellchecking",
+        "tinymce",
+        "plugin"
+    ]
+}
